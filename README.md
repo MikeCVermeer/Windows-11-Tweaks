@@ -12,7 +12,7 @@ This program provides an easy method for Windows 11 users to switch between the 
 ## Usage
 1. Download the latest `contextMenu.zip` from the [Releases](https://github.com/MikeCVermeer/Windows-11-Tweaks/releases) section.
 2. Navigate to the directory where you saved the `contextMenu.zip`.
-3. Navigate into the contextMenu.zip folder, then run the executable: 'contextMenu.exe'
+3. Navigate into the contextMenu.zip folder, then run the executable: `contextMenu.exe`
 4. Choose between enabling the old context menu, disabling it, or exiting the program.
 5. If the Windows shell doesn't restart automatically, follow the on-screen instructions to manually restart it.
 
