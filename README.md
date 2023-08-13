@@ -1,5 +1,7 @@
 # Windows 11 Registry Tweaks
 
+Currently this Repository only features a tweak for the context menu's. I might add more tweaks later.
+
 This program provides an easy method for Windows 11 users to switch between the old (legacy) and new context menus.
 
 ## Features
