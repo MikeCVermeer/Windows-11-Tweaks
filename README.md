@@ -1,5 +1,7 @@
 # Windows 11 Registry Tweaks
 
+Currently this Repository only features a tweak for the context menu's. I might add more tweaks later.
+
 This program provides an easy method for Windows 11 users to switch between the old (legacy) and new context menus.
 
 ## Features
@@ -8,9 +10,9 @@ This program provides an easy method for Windows 11 users to switch between the 
 - Provides instructions for manually restarting the Windows shell if needed.
 
 ## Usage
-1. Download the latest `contextMenu.exe` from the [Releases](https://github.com/MikeCVermeer/Windows-11-Tweaks/releases) section.
-2. Navigate to the directory where you saved the `contextMenu.exe`.
-3. Run the executable: ./contextMenu.exe
+1. Download the latest `contextMenu.zip` from the [Releases](https://github.com/MikeCVermeer/Windows-11-Tweaks/releases) section.
+2. Navigate to the directory where you saved the `contextMenu.zip`.
+3. Navigate into the contextMenu.zip folder, then run the executable: `contextMenu.exe`
 4. Choose between enabling the old context menu, disabling it, or exiting the program.
 5. If the Windows shell doesn't restart automatically, follow the on-screen instructions to manually restart it.
 
